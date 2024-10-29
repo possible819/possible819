@@ -6,6 +6,6 @@
 
   [![Code logs link](https://img.shields.io/badge/Code%20logs-000?style=for-the-badge&logo=next.js&logoColor=white)](https://code-logs.github.io)
 
-  [![](https://komarev.com/ghpvc/?username=possible819&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=possible819&style=for-the-badge)
 
 </div>
